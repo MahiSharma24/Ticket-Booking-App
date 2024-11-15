@@ -1,8 +1,8 @@
-🎫 Ticket Booking System
+🎫 Ticket Booking System-
 A Ticket Booking System developed in Java that allows users to easily browse, select, and book tickets for events. 
 This project demonstrates the core principles of object-oriented programming, database connectivity, and graphical user interfaces in Java.
 
-🌟 Project Overview
+🌟 Project Overview-
 The Ticket Booking System provides a streamlined solution for booking tickets for various events. Designed with both users and administrators in mind, the system ensures a seamless experience for end-users and efficient management capabilities for administrators.
 
 🚀 Features
